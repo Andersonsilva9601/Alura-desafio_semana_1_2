@@ -5,7 +5,8 @@
 }
 
 body {
-  background-color: #F0F8FF;
+  background-image: url(./img/CODIGO.png);
+  background-size: auto;
   font-family: Tahoma, sans-serif;
 }
 
@@ -19,6 +20,9 @@ body {
 .titulo {
   padding: 15px;
   width: 30vw;
+  position: relative;
+  text-align: center;
+  color: #00FFFF;
   margin: auto;
 
 }
